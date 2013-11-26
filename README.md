@@ -3,5 +3,6 @@ TOV4PointBehavior
 
 UI Dynamics Behavior that helps to set view's center and move with spring
 
+Please see how this works with youtube.
 
-<iframe width="640" height="480" src="//www.youtube.com/embed/zsBtm5q8zaQ" frameborder="0" allowfullscreen></iframe>
+http://www.youtube.com/watch?v=zsBtm5q8zaQ&feature=youtube_gdata_player
